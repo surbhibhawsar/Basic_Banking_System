@@ -24,7 +24,7 @@ background-image:url("imgs/transfer.jpg");
 	   <h1 style=" font-family:Verdana; font-size: 40px ;text-shadow:5px 5px 1px #0f4c5c "> <font color="white">By Surbhi Bhawsar</font> </h1>
 	
        <br><br><br>
-	   <h1 style=" font-family:Verdana; font-size: 60px ;text-shadow:9px 8px 1px  #03045e "> <font color="#f0efeb">Simple Banking System</font> </h1>
+	   <h1 style=" font-family:Verdana; font-size: 60px ;text-shadow:9px 8px 1px  #03045e "> <font color="#f0efeb">Basic Banking System</font> </h1>
 	   
         </div>
 		<br><br><br><br>
